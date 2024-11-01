@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Datir</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align=”right” alt=”coding” width=”400” src=”[https://media.licdn.com/dms/image/v2/D5622AQE89W98DCyLSw/feedshare-shrink_800/feedshare-shrink_800/0/1701262165110?e=2147483647&v=beta&t=uiY4cEq2OQOajcLvxYiaiQTN4a4pL8Lba8pEJCTEDjU](https://media.licdn.com/dms/image/v2/D5622AQE89W98DCyLSw/feedshare-shrink_800/feedshare-shrink_800/0/1701262165110?e=1733356800&v=beta&t=p7yNnLtdeQQyXZYGh3_vZH_I3u9KeZ9HyH0UEj3K6Wk)”>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
